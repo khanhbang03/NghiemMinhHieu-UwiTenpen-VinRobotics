@@ -1,4 +1,39 @@
 # NghiemMinhHieu-UwiTenpen-VinRobotics
+# ⚡ THE ULTIMATE LEGENDARY REPOSITORY ⚡
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe-100%25%20Chất-brightgreen?style=for-the-badge&logo=keepalive" alt="Vibe"/>
+  <img src="https://img.shields.io/badge/Xàm%20Lồn-0%25%20Tolerated-red?style=for-the-badge" alt="Anti-Trash"/>
+  <img src="https://img.shields.io/badge/Tech%20Stack-Elite%20Only-blue?style=for-the-badge&logo=github" alt="Tech"/>
+</p>
+
+---
+
+## 🦅 Tuyên Ngôn Của Repo
+
+> **"Chúng tôi chỉ mong những gì hay nhất, tinh túy nhất cho mình. Tuyệt đối nói không với những thứ rườm rà, xàm xí và tốn thời gian."**
+
+Dự án này được sinh ra để định nghĩa lại thế nào là code sạch, chạy nhanh và mang lại giá trị thực tế tối đa. Không làm màu, không vẽ chuyện. Chỉ có công nghệ đỉnh cao và giải pháp thực chiến.
+
+---
+
+## 🔥 Tính Năng Nổi Bật (Chỉ Hàng Tuyển)
+
+* 🚀 **Tốc độ ánh sáng:** Tối ưu hóa đến từng dòng code, chạy nhanh hơn người yêu cũ trở mặt.
+* 🛡️ **Hệ thống lọc "Xàm":** Tự động bỏ qua các dòng code thừa thãi, tập trung 100% vào logic cốt lõi.
+* 🧠 **AI-Powered Vibe:** Tích hợp những thuật toán thông minh nhất, chỉ phục vụ cho những ý tưởng xứng tầm.
+
+---
+
+## 🛠️ Cấu Trúc Dự Án (No-Nonsense Structure)
+
+```text
+├── 🧠 core/             # Bộ não của toàn bộ hệ thống (Chỉ chứa logic đỉnh cao)
+├── ⚡ speedrun/         # Các script tối ưu hóa hiệu năng cực hạn
+├── 🛡️ anti_trash/       # Bộ lọc loại bỏ hoàn toàn các dòng code rác
+├── 🚀 launch/           # Bấm nút là chạy, không cấu hình rườm rà
+└── README.md            # Bản đồ dẫn đường cho những người tìm kiếm sự hoàn hảo
+
 Building Embodied Intelligence for the Physical World
 Muốn làm một GitHub repo thuộc hàng **"chất nhất trên đời"**, phá vỡ mọi quy chuẩn nhàm chán của dân coder thông thường thì bí quyết nằm ở **thần thái** và **giao diện**. Một repo đỉnh không chỉ nằm ở code xịn bên trong, mà phải khiến người ta vừa bấm vào là thấy ngay sự uy tín, độ ngông và tư duy "chỉ chọn thứ hay nhất".
 
